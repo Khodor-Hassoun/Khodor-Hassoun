@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-Hello, I'm Khodor.<br>A fast paced and quick learner with a passion for Web Development. I'm currently learning web with the wonderful people over at Se Factory.  I'm looking to use this position to collaborate with developers from across the internet and I'm working on polishing my frontend skills. Feel free to ask me anything. 
+I'm Khodor.<br>A fast paced and quick learner with a passion for Web Development. I'm currently learning web with the wonderful people over at SE Factory.  I'm looking to use this position to collaborate with developers from across the internet and I'm working on polishing my frontend skills. Feel free to ask me anything. 
 
 
 # 💻 Tech Stack:
